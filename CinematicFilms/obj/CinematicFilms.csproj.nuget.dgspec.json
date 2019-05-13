@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gdrob\\source\\repos\\CinematicFilms\\CinematicFilms\\CinematicFilms.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gdrob\\source\\repos\\CinematicFilms\\CinematicFilms\\CinematicFilms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gdrob\\source\\repos\\CinematicFilms\\CinematicFilms\\CinematicFilms.csproj",
+        "projectName": "CinematicFilms",
+        "projectPath": "C:\\Users\\gdrob\\source\\repos\\CinematicFilms\\CinematicFilms\\CinematicFilms.csproj",
+        "packagesPath": "C:\\Users\\gdrob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gdrob\\source\\repos\\CinematicFilms\\CinematicFilms\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gdrob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

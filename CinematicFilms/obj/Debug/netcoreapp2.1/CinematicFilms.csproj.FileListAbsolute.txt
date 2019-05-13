@@ -1,0 +1,11 @@
+C:\Users\gdrob\source\repos\CinematicFilms\CinematicFilms\obj\Debug\netcoreapp2.1\CinematicFilms.csprojAssemblyReference.cache
+C:\Users\gdrob\source\repos\CinematicFilms\CinematicFilms\obj\Debug\netcoreapp2.1\CinematicFilms.csproj.CoreCompileInputs.cache
+C:\Users\gdrob\source\repos\CinematicFilms\CinematicFilms\obj\Debug\netcoreapp2.1\CinematicFilms.AssemblyInfoInputs.cache
+C:\Users\gdrob\source\repos\CinematicFilms\CinematicFilms\obj\Debug\netcoreapp2.1\CinematicFilms.AssemblyInfo.cs
+C:\Users\gdrob\source\repos\CinematicFilms\CinematicFilms\bin\Debug\netcoreapp2.1\CinematicFilms.deps.json
+C:\Users\gdrob\source\repos\CinematicFilms\CinematicFilms\bin\Debug\netcoreapp2.1\CinematicFilms.runtimeconfig.json
+C:\Users\gdrob\source\repos\CinematicFilms\CinematicFilms\bin\Debug\netcoreapp2.1\CinematicFilms.runtimeconfig.dev.json
+C:\Users\gdrob\source\repos\CinematicFilms\CinematicFilms\bin\Debug\netcoreapp2.1\CinematicFilms.dll
+C:\Users\gdrob\source\repos\CinematicFilms\CinematicFilms\bin\Debug\netcoreapp2.1\CinematicFilms.pdb
+C:\Users\gdrob\source\repos\CinematicFilms\CinematicFilms\obj\Debug\netcoreapp2.1\CinematicFilms.dll
+C:\Users\gdrob\source\repos\CinematicFilms\CinematicFilms\obj\Debug\netcoreapp2.1\CinematicFilms.pdb
